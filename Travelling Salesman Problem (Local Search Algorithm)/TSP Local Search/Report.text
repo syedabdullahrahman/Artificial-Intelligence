@@ -1,0 +1,10 @@
+10
+Problem Instance: [test.tsp] Avg Count: [9] Avg Cost: [10.414213562373096] Min Cost: [10.0]
+48
+Problem Instance: [att48.tsp] Avg Count: [147] Avg Cost: [35573.32187982546] Min Cost: [35537.62959339993]
+14
+Problem Instance: [burma14.tsp] Avg Count: [20] Avg Cost: [30.911530124039366] Min Cost: [30.878503892588]
+16
+Problem Instance: [ulysses16.tsp] Avg Count: [28] Avg Cost: [74.25388390835482] Min Cost: [73.98761804517501]
+22
+Problem Instance: [ulysses22.tsp] Avg Count: [42] Avg Cost: [76.37768672299852] Min Cost: [78.80229186069344]

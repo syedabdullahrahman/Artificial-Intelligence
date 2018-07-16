@@ -1,0 +1,21 @@
+I have used this Heuristic function
+
+public static int heuristic_1(State start, State goal) {
+        int number = 0;
+        for (int i = Total_Pan_Cake,j=0; i > 1; i--,j++) {
+            if (start.arr[i - 1] != i && start.arr[j] != i) {
+                number += 2;
+            } else {
+                number++;
+            }
+        }
+        return number;
+    }
+	
+	
+	
+Comment: 
+	1. Not a good heuristic function.
+	2. Not optimal solution
+	$. But, Give solutions 100% correct
+		
