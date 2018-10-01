@@ -1,1 +1,1 @@
-Artificial Intelligence Sessional
+Artificial Intelligence Programming
